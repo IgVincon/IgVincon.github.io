@@ -15,10 +15,8 @@ Currently, Rodríguez-Vinçon is working as a Configuration Engineer for an Amer
 
 ----
 
-[^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738)
-{: .fs-2 }
-[^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528)
-{: .fs-2 }
+[^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
+[^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
 
 [INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
 [a book chapter]: https://psyarxiv.com/xg2hj/
