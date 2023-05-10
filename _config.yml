@@ -12,10 +12,10 @@ aux_links:
   LinkedIn: https://www.linkedin.com/in/jirvincon/?locale=en_US
   
  nav_external_links:
-  - title: My GitHub
+  title: GitHub
     url: https://github.com/IgVincon
     hide_icon: false
-  - title: My LinkedIn
+  title: LinkedIn
     url: https://www.linkedin.com/in/jirvincon/?locale=en_US
     hide_icon: false
   
