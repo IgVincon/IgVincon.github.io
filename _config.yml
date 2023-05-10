@@ -11,6 +11,14 @@ aux_links:
   GitHub: https://github.com/IgVincon
   LinkedIn: https://www.linkedin.com/in/jirvincon/?locale=en_US
   
+ nav_external_links:
+  - title: My GitHub
+    url: https://github.com/IgVincon
+    hide_icon: false
+  - title: My LinkedIn
+    url: https://www.linkedin.com/in/jirvincon/?locale=en_US
+    hide_icon: false
+  
 
 # Optional features
 search_enabled: false
