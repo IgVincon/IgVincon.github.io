@@ -4,21 +4,17 @@ description: Software Developer – Data Analyst
 author: Juan Ignacio Rodríguez-Vinçon (IgVincon)
 theme: just-the-docs
 favicon_ico: "/images/favicon.png"
-
 url: https://igvincon.github.io/
 
 aux_links:
   GitHub: https://github.com/IgVincon
   LinkedIn: https://www.linkedin.com/in/jirvincon/?locale=en_US
   
- nav_external_links:
-  title: GitHub
+nav_external_links:
+  - title: GitHub
     url: https://github.com/IgVincon
-    hide_icon: false
-  title: LinkedIn
-    url: https://www.linkedin.com/in/jirvincon/?locale=en_US
-    hide_icon: false
-  
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jirvincon/?locale=en_US 
 
 # Optional features
 search_enabled: false
