@@ -5,13 +5,16 @@ nav_order: 1
 tags: home
 ---
 
-Juan Ignacio Rodríguez-Vinçon is a former Researcher, transitioning into Software Development, with a background in Data Science and Applied Research. His career highlights include working for 5+ years in [INDI], a research project of national scale in his home country, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2] (one of which addresses the effects caused by social isolation from COVID-19 pandemic on children), [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
+# <p align=center>Juan Ignacio Rodríguez-Vinçon</p>
+## <p align=center>Software Developer - Data Analyst</p>
+
+Former Researcher, transitioning to Software Development, with a background in Data Science and Applied Research. Career highlights include working for 5+ years in [INDI], a research project of national scale in his home country, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2] (one of which addresses the effects caused by social isolation from COVID-19 pandemic on children), [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
 
 [**Head to the About page →**]
 
 <br/>
 
-Currently, Rodríguez-Vinçon is working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing his developer skills on his free time by participating on the challenges organized by [DevChallenges].
+Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges].
 
 [**Head to his most recent project →**]
 
