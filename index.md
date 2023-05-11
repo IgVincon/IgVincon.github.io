@@ -4,17 +4,14 @@ layout: default
 nav_order: 1
 tags: home
 ---
+
 # Software Developer - Data Analyst
 
-Former Researcher, transitioning to Software Development, with a background in Data Science and Applied Research. Career highlights include working for 5+ years in [INDI], a research project of national scale, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
-
-[**Head to About page →**]
+Former Researcher, transitioning to Software Development, with a background in Data Science and Applied Research. Career highlights include working for 5+ years in [INDI], a research project of national scale, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank. [**Head to About page →**]
 
 <br>
 
-Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges].
-
-[**Head to most recent project →**]
+Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges]. [**Head to most recent project →**]
 
 ----
 [^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
@@ -22,6 +19,6 @@ Currently working as a Configuration Engineer for an American IT company that pr
 
 [INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
 [a book chapter]: https://psyarxiv.com/xg2hj/
-[**Head to the About page →**]: {{ site.baseurl }}/about
-[**Head to his most recent project →**]: https://github.com/IgVincon/error-page-devchallenge
+[**Head to About page →**]: {{ site.baseurl }}/about
+[**Head to most recent project →**]: https://github.com/IgVincon/error-page-devchallenge
 [DevChallenges]: https://devchallenges.io/
