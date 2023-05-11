@@ -23,6 +23,6 @@ Currently working as a Configuration Engineer for an American IT company that pr
 
 [INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
 [a book chapter]: https://psyarxiv.com/xg2hj/
-[**Head to About page →**]: {{ site.baseurl }}/about
-[**Head to most recent project →**]: https://github.com/IgVincon/error-page-devchallenge
+[*Head to About page →*]: {{ site.baseurl }}/about
+[*Head to most recent project →*]: https://github.com/IgVincon/error-page-devchallenge
 [DevChallenges]: https://devchallenges.io/
