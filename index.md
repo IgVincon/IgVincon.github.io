@@ -5,12 +5,14 @@ nav_order: 1
 tags: home
 ---
 
-## Software Developer - Data Analyst
+# Software Developer - Data Analyst
 
 Former Researcher, transitioning to Software Development, with a background in Data Science and Applied Research. Career highlights include working for 5+ years in [INDI], a research project of national scale, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2] (one of which addresses the effects caused by social isolation from COVID-19 pandemic on children), [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
 
 [**Head to the About page →**]
-<br/>
+
+
+
 Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges].
 
 [**Head to his most recent project →**]
