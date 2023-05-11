@@ -8,13 +8,13 @@ url: https://igvincon.github.io/
 
 aux_links:
   GitHub: https://github.com/IgVincon
-  LinkedIn: https://www.linkedin.com/in/jirvincon/?locale=en_US
+  LinkedIn: https://www.linkedin.com/in/jirvincon/
   
 nav_external_links:
   - title: GitHub
     url: https://github.com/IgVincon
   - title: LinkedIn
-    url: https://www.linkedin.com/in/jirvincon/?locale=en_US 
+    url: https://www.linkedin.com/in/jirvincon/ 
 
 # Optional features
 search_enabled: false
