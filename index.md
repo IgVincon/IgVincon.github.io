@@ -4,18 +4,18 @@ layout: default
 nav_order: 1
 tags: home
 ---
-
 # Software Developer - Data Analyst
 
 Former Researcher, transitioning to Software Development, with a background in Data Science and Applied Research. Career highlights include working for 5+ years in [INDI], a research project of national scale, co-author of two peer reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
 
-[**Head to the About page →**]
+[**Head to About page →**]
 
 <br>
 
 Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges].
 
-[**Head to his most recent project →**]
+[**Head to most recent project →**]
+
 ----
 [^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
 [^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
