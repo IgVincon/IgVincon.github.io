@@ -6,7 +6,7 @@ My personal website where you can find the projects I worked in and more about m
 
 ### What it looks like
 
-(need to add screenshot)
+![screenshot](/images/screenshot-2023-05-12-162649.png)
 
 ### What you can find there
 
