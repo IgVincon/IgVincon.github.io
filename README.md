@@ -20,6 +20,7 @@ My personal website where you can find the projects I worked in and more about m
 ----
 
 The theme used for the website is [Just the Docs]
+
 [Tea icons created by iconixar - Flaticon]
 
 
