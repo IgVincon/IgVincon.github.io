@@ -2,27 +2,46 @@
 title: Juan Ignacio Rodríguez-Vinçon
 description: Software Developer – Data Analyst
 author: Juan Ignacio Rodríguez-Vinçon (IgVincon)
+url: https://igvincon.github.io/
+repository: IgVincon/igvincon.github.io
+
 theme: just-the-docs
 favicon_ico: "/images/favicon.png"
-url: https://igvincon.github.io/
 
+# Optional features
+# Enable or disable the site search
+search_enabled: false
+# For copy button on code
+enable_copy_code_button: true
+
+# Aux links for the upper right navigation
 aux_links:
   GitHub: https://github.com/IgVincon
   LinkedIn: https://www.linkedin.com/in/jirvincon/
   
+# External navigation links
 nav_external_links:
   - title: GitHub
     url: https://github.com/IgVincon
   - title: LinkedIn
     url: https://www.linkedin.com/in/jirvincon/ 
-
-# Optional features
-search_enabled: false
+    
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 callouts:
-  warning:
-    title: Warning
-    color: red
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
   note:
     title: Note
     color: purple
+  warning:
+    title: Warning
+    color: red
