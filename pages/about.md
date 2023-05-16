@@ -1,3 +1,14 @@
+<style>
+/* Create a CSS class to style images to right-align, or "float right" */
+.rightAlign
+{
+    display:inline-block;
+    float:right;
+    /* provide a 15 pixel gap between the image and the text to its left */
+    margin-left:15px;
+    width:40%;
+}
+</style>
 ---
 title: About
 layout: default
@@ -6,9 +17,6 @@ permalink: /about
 ---
 # About myself
 
-<div align="right" width="40%">
-  <img align="right" width="33%" src="/images/githubpic.jpg">
-</div>
-
+<img class="rightAlign" src="/images/githubpic.jpg">
 
 Researcher with 5+ years of experience in Cognitive Psychology and Data Analysis. Problem-solver, good communicator and inquisitive person seeking first job experience in Data Science (or related field) to participate in the development of data driven metrics that facilitate decision-making processes. Previous related experience includes developing an ETL pipeline from web scrapped data, predicting vote intention with decision trees from questionnaire data, assisting in predicting grade retention with decision trees based on a child development measurement. I have two peer-reviewed papers published, one book chapter and 10+ data driven reports addressed to authorities such as The World Bank.
