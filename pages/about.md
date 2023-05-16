@@ -9,8 +9,8 @@ permalink: /about
 <img src="/images/githubpic.jpg"
      alt="picture of Juan Ignacio Rodríguez-Vinçon"
      style="display:inline-block;
-            float:right;
-            margin-left:15px;
+            float:left;
+            margin-right:15px;
             width:40%;
             " >
 
