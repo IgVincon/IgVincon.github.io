@@ -9,7 +9,7 @@ permalink: /about
      style="border-radius:1rem;
             display:inline-block;
             float:right;
-            margin:1rem,0rem,4rem,2rem;
+            margin:1rem 0rem 4rem 2rem;
             width:40%;
             " >
             
