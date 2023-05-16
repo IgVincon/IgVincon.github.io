@@ -6,9 +6,10 @@ permalink: /about
 ---
 <img src="/images/githubpic.jpg"
      alt="headshot of Juan Ignacio Rodríguez-Vinçon"
-     style="display:inline-block;
+     style="border-radius:1rem;
+            display:inline-block;
             float:right;
-            margin-left:2rem;
+            margin:1rem,0rem,4rem,2rem;
             width:40%;
             " >
             
