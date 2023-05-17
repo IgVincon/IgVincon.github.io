@@ -45,7 +45,6 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 
 {: .important-title }
 Easter egg
-
 You may have noticed my favicon is a tea cup, that's because it's my favourite beverage. When it's winter I usually drink it with a spoon of coconut oil, while in summer I brew my virgin iced tea with lemon, orange and mint.
 
 ### You can find me at
