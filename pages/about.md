@@ -44,8 +44,9 @@ Backend development: `Django`
 I like to exercise, play board games and read. Currently I'm following [Gymnastic Bodies] routines, playing tennis and thinking of returning to fencing. I recently got [Gloomhaven: Jaws of the Lion] so I'm trying it out, but I also adore divergent games like [Magic Maze]. Nowadays I find myself reading Lovecraft's work, I recently finished [The Call of Cthulhu] and now I'm reading [At the Mountains of Madness].
 
 {: .important-title }
-Easter egg
-You may have noticed my favicon is a tea cup, that's because it's my favourite beverage. When it's winter I usually drink it with a spoon of coconut oil, while in summer I brew my virgin iced tea with lemon, orange and mint.
+> Easter egg
+>
+> You may have noticed my favicon is a tea cup, that's because it's my favourite beverage. When it's winter I usually drink it with a spoon of coconut oil, while in summer I brew my virgin iced tea with lemon, orange and mint.
 
 ### You can find me at
 
