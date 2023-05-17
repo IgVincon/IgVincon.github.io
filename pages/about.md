@@ -27,8 +27,9 @@ Former Researcher, transitioning to Software Development, with a background in D
 Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges]. 
 
 ### My stack so far
+
 | Programming languages  | RDBMS         | Data Science APIs  | Web Scrapping APIs   | Version Control  | Software Testing     |
-| ---------------------- |:-------------:| ------------------:| --------------------:| ----------------:| --------------------:| 
+| :--------------------- |:-------------:| :-----------------:| :-------------------:| :---------------:| :-------------------:| 
 | `Python`               | `PostgreSQL`  | `NumPy`            | `Requests`           | `Git Bash`       | `Functional Testing` |
 | `Java`                 | `MySQL`       | `Pandas`           | `Beautiful Soup`     |                  | `black & white`      |
 | `Pascal`               |               | `Matplotlib`       |                      |                  | `positive & negative`|
