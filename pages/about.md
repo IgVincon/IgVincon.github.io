@@ -38,13 +38,6 @@ Currently working as a Configuration Engineer for an American IT company that pr
 |                        |               | `nltk`             |                      |                  |                      |
 
 ### Currently, I'm learning...
-
-| Frontend   | Backend     |
-|:----------:|:-----------:|
-| `HTML`      | `Django`    |
-| `CSS`      |             |
-| `JS`       |             |
-
 Frontend development: `HTML`, `CSS`, `JS`
     
 Backend development: `Django`
