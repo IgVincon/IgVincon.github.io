@@ -47,18 +47,18 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 
 <p align="center" width="100%">
      <a href="https://github.com/IgVincon">
-          <img src="/images/github-mark.png"
-               alt="GitHub logo"
-               style="margin:1rem;
-                      width:10%;
-                      " >
+          <img alt="GitHub logo"
+               src="/images/github-mark.png"
+               style="margin:1rem;"
+               width="10%"
+               >
      </a>
      <a href="https://www.linkedin.com/in/jirvincon/">
-          <img src="/images/LI-In-Bug.png"
-               alt="LinkedIn logo"
-               style="margin:1rem
-                      width:10%;
-                      " >
+          <img alt="LinkedIn logo"
+               src="/images/LI-In-Bug.png"
+               style="margin:1rem;"
+               width="10%"
+               >
      </a>
 </p>
      
