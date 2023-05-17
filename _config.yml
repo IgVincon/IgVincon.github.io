@@ -15,9 +15,9 @@ search_enabled: false
 enable_copy_code_button: true
 
 # Aux links for the upper right navigation
-aux_links:
-  GitHub: https://github.com/IgVincon
-  LinkedIn: https://www.linkedin.com/in/jirvincon/
+#aux_links:
+#  GitHub: https://github.com/IgVincon
+#  LinkedIn: https://www.linkedin.com/in/jirvincon/
   
 # External navigation links
 nav_external_links:
