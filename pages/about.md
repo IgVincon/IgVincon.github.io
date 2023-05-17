@@ -22,7 +22,7 @@ I worked as a Researcher for 5+ years as a core team member of [INDI], a nationa
 The use of problem-solving skills, as well as Python, brought me closer to Data Science and in turn to Software Development. The similar skillset (albeit in a different way), plus the rush of creating something from scratch and making it work made me switch careers in a heartbeat. As a long-term goal, I would like to combine both my knowledge and expertise in research and data with software development to become an ML Engineer.
 
 ### Where I’m at now 
-Currently I work as a Configuration Engineer for [Combined Ratio Solutions], an American IT company that works as a Software Factory providing services for the insurance sector. In my day-to-day tasks I mainly set up and test different companies' website. It usually involves technical skills (using X, Y, Z) as well as people skills when talking with clients. 
+Currently I work as a Configuration Engineer for [Combined Ratio Solutions], an American IT company that works as a Software Factory providing services for the insurance sector. In my day-to-day tasks I mainly set up and test different companies' website. It usually involves technical skills (using Postman, XML, JSON, HTML in an agile environment) as well as people skills when talking with clients. 
 
 ### My stack so far
 
@@ -74,5 +74,5 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 [Gymnastic Bodies]: https://www.gymnasticbodies.com/
 [Magic Maze]: https://boardgamegeek.com/boardgame/209778/magic-maze
 [Gloomhaven: Jaws of the Lion]: https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion
-[The Call of Cthulu]: https://en.wikipedia.org/wiki/The_Call_of_Cthulhu
+[The Call of Cthulhu]: https://en.wikipedia.org/wiki/The_Call_of_Cthulhu
 [At the Mountains of Madness]: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness
