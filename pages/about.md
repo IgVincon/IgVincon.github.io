@@ -27,6 +27,15 @@ Former Researcher, transitioning to Software Development, with a background in D
 Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector while honing skills on free time by participating on the challenges organized by [DevChallenges]. 
 
 ### My stack so far
+| Programming languages  | RDBMS         | Data Science APIs  | Web Scrapping APIs   | Version Control  | Software Testing     |
+| ---------------------- |:-------------:| ------------------:| --------------------:| ----------------:| --------------------:| 
+| `Python`               | `PostgreSQL`  | `NumPy`            | `Requests`           | `Git Bash`       | `Functional Testing` |
+| `Java`                 | `MySQL`       | `Pandas`           | `Beautiful Soup`     |                  | `black & white`      |
+| `Pascal`               |               | `Matplotlib`       |                      |                  | `positive & negative`|
+|                        |               | `Seaborn`          |                      |                  | `edge cases`         |
+|                        |               | `scikit-learn`     |                      |                  |                      |
+|                        |               | `nltk`             |                      |                  |                      |
+
 Programming languages: `Python`, `Java`, `Pascal`
 
 RDBMS: `PostgreSQL`, `MySQL`
@@ -45,3 +54,15 @@ Frontend development: `HTML`, `CSS`, `JS`
 Backend development: `Django`
 
 ### You can reach me at
+
+
+
+----
+[^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
+[^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
+
+[INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
+[a book chapter]: https://psyarxiv.com/xg2hj/
+[*Head to About page →*]: {{ site.baseurl }}/about
+[*Head to most recent project →*]: https://github.com/IgVincon/error-page-devchallenge
+[DevChallenges]: https://devchallenges.io/
