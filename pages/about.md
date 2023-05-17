@@ -45,15 +45,27 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 
 ### You can find me at
 
-<img src="/images/github-mark.png"
-     alt="GitHub logo"
-     style="display:block;
-            float:none;
-            margin-left:auto;
-            margin-right:auto;
-            width:15%;
-            " >
-
+<a href="https://github.com/IgVincon">
+     <img src="/images/github-mark.png"
+          alt="GitHub logo"
+          style="display:block;
+                 float:none;
+                 margin-left:auto;
+                 margin-right:auto;
+                 width:10%;
+                 " >
+</a>
+<a href="https://www.linkedin.com/in/jirvincon/">
+     <img src="/images/LI-In-Bug.png"
+          alt="LinkedIn logo"
+          style="display:block;
+                 float:none;
+                 margin-left:auto;
+                 margin-right:auto;
+                 width:10%;
+                 " >
+</a>
+     
 ----
 [^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
 [^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
