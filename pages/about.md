@@ -37,19 +37,14 @@ Currently working as a Configuration Engineer for an American IT company that pr
 |                        |               | `scikit-learn`     |                      |                  |                      |
 |                        |               | `nltk`             |                      |                  |                      |
 
-Programming languages: `Python`, `Java`, `Pascal`
+### Currently, I'm learning...
 
-RDBMS: `PostgreSQL`, `MySQL`
+| Frontend   | Backend     |
+|:----------:|:-----------:|
+| `HTML      | `Django`    |
+| `CSS`      |             |
+| `JS`       |             |
 
-Data Science APIs: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `scikit-learn`, `nltk`
-
-Web Scrapping APIs: `Requests`, `Beautiful Soup`
-
-Version Control: `Git Bash`
-
-Software Testing: `Functional Testing` (black & white, positive & negative, edge cases, etc.)
-
-### Currently, I'm learning..
 Frontend development: `HTML`, `CSS`, `JS`
     
 Backend development: `Django`
