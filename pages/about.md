@@ -41,7 +41,7 @@ Currently working as a Configuration Engineer for an American IT company that pr
 
 | Frontend   | Backend     |
 |:----------:|:-----------:|
-| `HTML      | `Django`    |
+| `HTML`      | `Django`    |
 | `CSS`      |             |
 | `JS`       |             |
 
