@@ -29,7 +29,7 @@ Currently working as a Configuration Engineer for an American IT company that pr
 ### My stack so far
 
 | Programming languages  | RDBMS         | Data Science APIs  | Web Scrapping APIs   | Version Control  | Software Testing     |
-| :--------------------- |:-------------:| :-----------------:| :-------------------:| :---------------:| :-------------------:| 
+| :--------------------: |:-------------:| :-----------------:| :-------------------:| :---------------:| :-------------------:| 
 | `Python`               | `PostgreSQL`  | `NumPy`            | `Requests`           | `Git Bash`       | `Functional Testing` |
 | `Java`                 | `MySQL`       | `Pandas`           | `Beautiful Soup`     |                  | `black & white`      |
 | `Pascal`               |               | `Matplotlib`       |                      |                  | `positive & negative`|
