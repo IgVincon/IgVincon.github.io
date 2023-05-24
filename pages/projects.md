@@ -10,7 +10,7 @@ permalink: /projects
 
 ![screenshot](/images/screenshot-2023-04-24-182717.png)
 
-A responsive 404 error page developed for the [Responsive Web Developer] path. It was built using HTML & CSS. You can check the solution to the challenge by heading to its [GitHub Repo] or you can [visit the page where it's deployed].
+A responsive 404 error page developed for the [Responsive Web Developer] path. It was built using `HTML` & `CSS`. You can check the solution to the challenge by heading to its [GitHub Repo] or you can [visit the page where it's deployed].
 
 ----
 
