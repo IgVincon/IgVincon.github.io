@@ -14,10 +14,10 @@ permalink: /about
             " >
             
 # About myself
-I'm a former Researcher transitioning to Software Development, with work experience in Data Analysis and a background in Data Science. Naturally inquisitive, problem-solver and good communicator. 
+I'm a Data Engineer that used to work in a national scale applied research project called [INDI]. This project was supervised and financed by the World Bank and the national government as a way foster pre-school children development since [the investment at that stage has the greatest ROI for a country's growth]. Even though I loved working in that project and help my own country improve, I had to choose to move on in order for me to grow personally and professionally. So now I find myself looking for new challenges.
 
 ### Where I’m at now 
-Currently I work as a Configuration Engineer for [Combined Ratio Solutions], an American IT company that works as a Software Factory providing services for the insurance sector. In my day-to-day tasks I mainly set up and test different companies' website. It usually involves technical skills (using Postman, XML, JSON, HTML in an agile environment) as well as people skills when talking with clients. 
+Currently I work as a Configuration Engineer for [Combined Ratio Solutions], an American IT company that works as a Software Factory providing services for the insurance sector. In my day-to-day tasks I mainly set up and test different companies' website and perform data transformations. It usually involves technical skills (using Postman, XML, JSON, HTML in an agile environment) as well as people skills when talking with clients. 
 
 ### My stack so far
 
@@ -36,9 +36,9 @@ Frontend development: `HTML`, `CSS`, `JS`
 Backend development: `Django`
 
 ### What I used to do
-I worked as a Researcher for 5+ years as a core team member of [INDI], a national scale applied research project, doing data analysis with Python. There I got the chance to work on some interesting stuff as predicting grade retention with decision trees based on INDI's standardized results and an ETL pipeline from web scrapped data to assess [department research production]. During that time I co-authored two peer-reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank.
+As I partially mentioned, I worked for 5+ years as a core team member of [INDI] doing some data analysis and data engineering with Python. There I got the chance to work on some interesting stuff as predicting grade retention with decision trees based on INDI's standardized results and an ETL pipeline. During that time I authored two peer-reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports.
 
-The use of problem-solving skills, as well as Python, brought me closer to Data Science and in turn to Software Development. The similar skillset (albeit in a different way), plus the rush of creating something from scratch and making it work made me switch careers in a heartbeat. As a long-term goal, I would like to combine both my knowledge and expertise in research and data with software development to become an ML Engineer.
+The use of problem-solving skills, as well as Python, brought me closer to Data Science and in turn to Software Development. The similar skillset (albeit in a different way), plus the rush of creating something from scratch and making it work made me realize that I needed to let go this amazing project in order to learn more on software development (its life cycle, best practices, work methodologies like agile, etc.). As a long-term goal, I would like to combine both my knowledge and expertise in research and data with software development to become an ML Engineer.
 
 ### What I do in my free time
 I like to exercise, play board games and read. Currently I'm following [Gymnastic Bodies] routines, playing tennis and thinking of returning to fencing. I recently got [Gloomhaven: Jaws of the Lion] so I'm trying it out, but I also adore party games like [Magic Maze]. Nowadays I find myself reading Lovecraft's work, I recently finished [The Call of Cthulhu] and now I'm reading [At the Mountains of Madness].
@@ -71,6 +71,7 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 [^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
 [^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
 
+[the investment at that stage has the greatest ROI for a country growth]: https://www.worldbank.org/en/topic/earlychildhooddevelopment
 [UDELAR]: https://udelar.edu.uy/
 [INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
 [department research production]: https://fundamentos.psico.edu.uy/investigacion
