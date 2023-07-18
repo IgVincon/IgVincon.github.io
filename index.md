@@ -7,7 +7,7 @@ tags: home
 
 # Data Engineer - Software Developer
 
-Inquisitive Data Engineer with 5+ years of experience in Applied Research. Career highlights include working in [INDI] (a national scale research project), authoring two peer reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank. 
+Inquisitive Data Engineer with 5+ years of experience in Data Analysis and Applied Research. Career highlights include working in [INDI] (a national scale research project), authoring two peer reviewed papers[^1]<sup>,</sup> [^2], [a book chapter] and 10+ data driven reports addressed to authorities such as The World Bank. 
 
 [*Head to About page →*]
 
