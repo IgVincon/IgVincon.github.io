@@ -71,7 +71,7 @@ I like to exercise, play board games and read. Currently I'm following [Gymnasti
 [^1]: [School readiness losses during the COVID-19 outbreak. A comparison of two cohorts of young children](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13738){: .fs-2 }
 [^2]: [Developmental disparities based on socioeconomic status and sex: an analysis of two large, population-based early childhood development assessments in Uruguay](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528){: .fs-2 }
 
-[the investment at that stage has the greatest ROI for a country growth]: https://www.worldbank.org/en/topic/earlychildhooddevelopment
+[the investment at that stage has the greatest ROI for a country's growth]: https://www.worldbank.org/en/topic/earlychildhooddevelopment
 [UDELAR]: https://udelar.edu.uy/
 [INDI]: https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html
 [department research production]: https://fundamentos.psico.edu.uy/investigacion
