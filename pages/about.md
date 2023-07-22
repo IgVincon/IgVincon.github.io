@@ -21,14 +21,14 @@ Currently I work as a Configuration Engineer for [Combined Ratio Solutions], an 
 
 ### My stack so far
 
-| Programming languages  | RDBMS         | Data Science APIs  | Web Scrapping APIs   | Version Control  | Software Testing     |
-| :--------------------: |:-------------:| :-----------------:| :-------------------:| :---------------:| :-------------------:| 
-| `Python`               | `PostgreSQL`  | `NumPy`            | `Requests`           | `Git Bash`       | `Functional Testing` |
-| `Java`                 | `MySQL`       | `Pandas`           | `Beautiful Soup`     |                  | `Black & White`      |
-| `Pascal`               |               | `Matplotlib`       |                      |                  | `Positive & Negative`|
-|                        |               | `Seaborn`          |                      |                  | `Edge cases`         |
-|                        |               | `scikit-learn`     |                      |                  |                      |
-|                        |               | `nltk`             |                      |                  |                      |
+| Languages    | RDBMS         | Data Science    | Web Scrapping    | Version Control  | Software Testing     |
+| :----------: |:-------------:| :--------------:| :---------------:| :---------------:| :-------------------:| 
+| `Python`     | `PostgreSQL`  | `NumPy`         | `Requests`       | `Git Bash`       | `Functional Testing` |
+| `Java`       | `MySQL`       | `Pandas`        | `Beautiful Soup` |                  | `Black & White`      |
+| `Pascal`     | `SQLite`      | `Matplotlib`    |                  |                  | `Positive & Negative`|
+|              |               | `Seaborn`       |                  |                  | `Edge cases`         |
+|              |               | `scikit-learn`  |                  |                  |                      |
+|              |               | `nltk`          |                  |                  |                      |
 
 ### What I'm learning
 Frontend development: `HTML`, `CSS`, `JS`
